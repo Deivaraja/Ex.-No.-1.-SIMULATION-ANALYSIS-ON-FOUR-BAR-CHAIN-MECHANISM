@@ -1,4 +1,4 @@
-# Ex. No.  - SIMULATION ANALYSIS ON FOUR BAR CHAIN MECHANISM
+![Screenshot 2024-12-03 151326](https://github.com/user-attachments/assets/0ad7f308-6b91-424d-b1ee-d8da9d481c96)[empd 2.pdf](https://github.com/user-attachments/files/17990732/empd.2.pdf)# Ex. No.  - SIMULATION ANALYSIS ON FOUR BAR CHAIN MECHANISM
 
 ## DATE: 
 
@@ -53,10 +53,13 @@
 
 
 ## Output:
+![Screenshot 2024-12-03 151326](https://github.com/user-attachments/assets/29353214-ea30-4ac6-a7de-0cf3f40a7962)
+![2](https://github.com/user-attachments/assets/e424c8b8-d437-4a72-872b-f60b887bcb7b)
 
 
-### Name:
-### Register Number: 
+### Name:DEIVARAJA R
+### Register Number: 24901238
 
 ## RESULT:
  ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
+ 
